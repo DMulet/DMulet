@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @DMulet
 - 👀 I’m interested in digital art, programming and movies.
-- 🌱 I hope to be the best frontend developer I can be.
+- 🌱 I hope to be the best frontend developer I can.
